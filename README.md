@@ -7,3 +7,5 @@ test rebase2!!!!
 测试fetch!!!
 
 测试pull！！！
+
+测试fetch -> checkout
