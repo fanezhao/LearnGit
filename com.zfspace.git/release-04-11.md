@@ -2,3 +2,5 @@
 
 
 哈哈哈
+
+checkout . test
